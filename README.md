@@ -1,10 +1,10 @@
 # Unity_2d_UI_Davids
 Unity 2d projekts, kas demonstre UI lietojumu
 ### Veicamo darbu apraksts
-- [ ] Projekta uzsaksana un izvietosana GIThub
-- [ ] Projekta failu un mapju ievißana
-- [ ] InputField un Text, Button elementu lietojums
-- [ ] Pirá C# skripta izveide un piesaiste ainai
+- [x] Projekta uzsaksana un izvietosana GIThub
+- [x] Projekta failu un mapju ievißana
+- [x] InputField un Text, Button elementu lietojums
+- [x] Pirá C# skripta izveide un piesaiste ainai
 - [ ] Image un Togle elementu lietojums
 - [ ] DropDown un Slider elementu lietojums
 - [ ] AudioSource un ScrollView elementu lietojums
